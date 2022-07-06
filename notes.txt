@@ -1,0 +1,27 @@
+1. Install Python
+2. Install MongoDB community server
+3. Install Pycharm community
+4. Install git
+5. Create a git repository in your github
+6. Clone the created git repository
+7. Open terminal and install the below packages by running
+pip install pymongo fastapi uvicorn
+
+8. Start the fastapi: uvicorn index:app --reload
+
+9. Create different folders like config, models, routes, schemas
+
+10. Create index.py at root of project
+
+11. Write code in index.py for creating a FastAPI app
+
+12. Go to terminal and run below command to run server in auto-reload mode uvicorn index:app --reload
+
+13. Go to the browser and hit below url to access the default FastAPI swagger page hhtp://127.0.0.1:8080/docs
+
+14. Using this swagger doc page we will test our all REST api endopoints, you can also use Postman
+
+15. Create database.py in config folder and student.py file in models, routes and schemas folders
+
+16. Create student inside models
+
