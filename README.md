@@ -6,7 +6,7 @@ All you need is:
 - Pycharm Community version or another IDE
 
 Then you can install this python libraries:
-```pip install pymongo fastapi uvicorn```python,  
+```pip install pymongo fastapi uvicorn```  
 
 Now start the FastAPI:  
 ```uvicorn index:app --reload```
