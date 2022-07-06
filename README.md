@@ -11,3 +11,7 @@ Then you can install this python libraries:
 Now start the FastAPI:  
 ```uvicorn index:app --reload```
 
+
+
+https://user-images.githubusercontent.com/7051439/177639287-38e9c6f7-7bfb-431d-baf7-428b59239f36.mp4
+
